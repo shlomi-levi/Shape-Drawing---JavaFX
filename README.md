@@ -3,7 +3,7 @@ A simple shape drawing application that was created for an assignment I had in o
 
 ![](images/1.png)
 
-All you need to do is grab a shape and somewhere to the left of the red line
+All you need to do is grab a shape and place it somewhere to the left of the red line
 
 ![](images/2.png)
 
